@@ -1,0 +1,235 @@
+High Frequency Magnetometer Number 0 - Flinders University 1999 - 2003
+
+  * MagLog Version 3.00 22/05/2003: May 26 2003 compiled on 11:19:34 
+
+  * %s compiled on %s %s
+
+  * Persistor CF1 SN:51373
+  * CompactFlash Card: 255909888bytes Capacity, 255578112bbytes Free
+ * Processor Clock Speed  1920kHz 
+  * Setup RTC Time = Tue Jun 16 03:19:23 2009
+
+Entered sampling rate was : 10.000000 Samples per second
+
+  * True Filterpoint = 1953 (0x7A1)
+True sample rate = 10.000640 samples per second
+  * Initialization Successful
+FIFO is Empty  * FIFO size = 4096 Bytes
+  * Initialization Successful
+  * Logging started at Tue Jun 16 03:28:04 2009
+
+File HFM0-000.BIN open for logging   Tue Jun 16 03:28:05 2009
+00000000  24097.674  -51414.910   -82.519    0.0055    0.0052     24.76   -1.0778   -0.0189
+End: Tue Jun 16 04:28:05 2009
+File HFM0-001.BIN open for logging   Tue Jun 16 04:28:06 2009
+00036000  24103.129  -51480.383   -36.149    0.0051    0.0047     17.95   -0.8433    0.1967
+End: Tue Jun 16 05:28:05 2009
+File HFM0-002.BIN open for logging   Tue Jun 16 05:28:05 2009
+00072000  24101.539  -51476.887   -43.846    0.0051    0.0048     18.40   -0.8207    0.0877
+End: Tue Jun 16 06:28:05 2009
+File HFM0-003.BIN open for logging   Tue Jun 16 06:28:05 2009
+00108000  24106.387  -51481.668   -46.002    0.0051    0.0047     18.59   -0.7871    0.0147
+End: Tue Jun 16 07:28:05 2009
+File HFM0-004.BIN open for logging   Tue Jun 16 07:28:05 2009
+00144000  24113.402  -51483.504   -38.779    0.0051    0.0047     18.14   -0.7209    0.0221
+End: Tue Jun 16 08:28:05 2009
+File HFM0-005.BIN open for logging   Tue Jun 16 08:28:05 2009
+00180000  24115.098  -51482.160   -29.166    0.0051    0.0047     17.40   -0.6345    0.1006
+End: Tue Jun 16 09:28:05 2009
+File HFM0-006.BIN open for logging   Tue Jun 16 09:28:05 2009
+00216000  24113.236  -51480.836   -23.265    0.0050    0.0047     16.39   -0.5479    0.2074
+End: Tue Jun 16 10:28:05 2009
+File HFM0-007.BIN open for logging   Tue Jun 16 10:28:05 2009
+00252000  24111.688  -51481.277   -20.481    0.0050    0.0047     15.63   -0.4651    0.3113
+End: Tue Jun 16 11:28:04 2009
+File HFM0-008.BIN open for logging   Tue Jun 16 11:28:05 2009
+00288000  24105.639  -51481.020   -17.023    0.0050    0.0047     14.72   -0.3921    0.4128
+End: Tue Jun 16 12:28:04 2009
+File HFM0-009.BIN open for logging   Tue Jun 16 12:28:04 2009
+00324000  24103.154  -51481.379   -15.588    0.0050    0.0046     13.82   -0.3210    0.5064
+End: Tue Jun 16 13:28:04 2009
+File HFM0-010.BIN open for logging   Tue Jun 16 13:28:04 2009
+00360000  24102.088  -51479.164   -11.549    0.0050    0.0046     12.99   -0.2592    0.5950
+End: Tue Jun 16 14:28:04 2009
+File HFM0-011.BIN open for logging   Tue Jun 16 14:28:04 2009
+00396000  24100.291  -51480.746    -9.807    0.0050    0.0046     12.05   -0.2022    0.6689
+End: Tue Jun 16 15:28:04 2009
+File HFM0-012.BIN open for logging   Tue Jun 16 15:28:04 2009
+00432000  24099.016  -51480.926    -6.302    0.0050    0.0046     11.37   -0.1529    0.7356
+End: Tue Jun 16 16:28:04 2009
+File HFM0-013.BIN open for logging   Tue Jun 16 16:28:04 2009
+00468000  24100.205  -51480.277    -0.567    0.0049    0.0046     10.71   -0.1105    0.7949
+End: Tue Jun 16 17:28:04 2009
+File HFM0-014.BIN open for logging   Tue Jun 16 17:28:04 2009
+00504000  24100.379  -51480.082     0.100    0.0049    0.0046     10.04   -0.0692    0.8523
+End: Tue Jun 16 18:28:03 2009
+File HFM0-015.BIN open for logging   Tue Jun 16 18:28:04 2009
+00540000  24100.178  -51479.852    -0.127    0.0049    0.0045      9.41   -0.0303    0.9058
+End: Tue Jun 16 19:28:03 2009
+File HFM0-016.BIN open for logging   Tue Jun 16 19:28:03 2009
+00576000  24101.246  -51479.277     1.809    0.0049    0.0045      8.86    0.0048    0.9546
+End: Tue Jun 16 20:28:03 2009
+File HFM0-017.BIN open for logging   Tue Jun 16 20:28:03 2009
+00612000  24100.084  -51479.016     4.326    0.0049    0.0046      8.32    0.0393    1.0005
+End: Tue Jun 16 21:28:03 2009
+File HFM0-018.BIN open for logging   Tue Jun 16 21:28:03 2009
+00648000  24099.791  -51478.543     6.182    0.0049    0.0045      7.88    0.0707    1.0413
+End: Tue Jun 16 22:28:03 2009
+File HFM0-019.BIN open for logging   Tue Jun 16 22:28:03 2009
+00684000  24104.297  -51476.984     2.657    0.0049    0.0045      7.44    0.1006    1.0813
+End: Tue Jun 16 23:28:03 2009
+File HFM0-020.BIN open for logging   Tue Jun 16 23:28:03 2009
+00720000  24105.023  -51480.578     4.840    0.0049    0.0045      8.23    0.0828    1.0786
+End: Wed Jun 17 00:28:02 2009
+File HFM0-021.BIN open for logging   Wed Jun 17 00:28:03 2009
+00756000  24100.078  -51483.414    10.614    0.0049    0.0046     10.08   -0.0158    0.9995
+End: Wed Jun 17 01:28:02 2009
+File HFM0-022.BIN open for logging   Wed Jun 17 01:28:03 2009
+00792000  24093.836  -51486.910    13.271    0.0049    0.0046     11.90   -0.1937    0.8491
+End: Wed Jun 17 02:28:02 2009
+File HFM0-023.BIN open for logging   Wed Jun 17 02:28:02 2009
+00828000  24090.965  -51487.488    11.696    0.0050    0.0046     13.63   -0.4231    0.6529
+End: Wed Jun 17 03:28:02 2009
+File HFM0-024.BIN open for logging   Wed Jun 17 03:28:02 2009
+00864000  24089.443  -51490.473    10.254    0.0050    0.0046     15.24   -0.6085    0.4450
+End: Wed Jun 17 04:28:02 2009
+File HFM0-025.BIN open for logging   Wed Jun 17 04:28:02 2009
+00900000  24085.598  -51489.055     6.422    0.0050    0.0047     16.37   -0.6693    0.2738
+End: Wed Jun 17 05:28:02 2009
+File HFM0-026.BIN open for logging   Wed Jun 17 05:28:02 2009
+00936000  24079.016  -51488.922     2.430    0.0050    0.0047     17.39   -0.6798    0.1370
+End: Wed Jun 17 06:28:01 2009
+File HFM0-027.BIN open for logging   Wed Jun 17 06:28:02 2009
+00972000  24080.043  -51493.863    -2.170    0.0050    0.0047     17.68   -0.6646    0.0665
+End: Wed Jun 17 07:28:01 2009
+File HFM0-028.BIN open for logging   Wed Jun 17 07:28:02 2009
+01008000  24082.387  -51495.531     4.172    0.0050    0.0047     17.52   -0.6199    0.0660
+End: Wed Jun 17 08:28:01 2009
+File HFM0-029.BIN open for logging   Wed Jun 17 08:28:02 2009
+01044000  24083.541  -51493.977     8.585    0.0050    0.0047     16.61   -0.5398    0.1631
+End: Wed Jun 17 09:28:01 2009
+File HFM0-030.BIN open for logging   Wed Jun 17 09:28:01 2009
+01080000  24083.074  -51491.465    10.881    0.0050    0.0047     15.70   -0.4761    0.2641
+End: Wed Jun 17 10:28:01 2009
+File HFM0-031.BIN open for logging   Wed Jun 17 10:28:01 2009
+01116000  24082.621  -51490.426    11.689    0.0050    0.0047     15.07   -0.4070    0.3625
+End: Wed Jun 17 11:28:01 2009
+File HFM0-032.BIN open for logging   Wed Jun 17 11:28:01 2009
+01152000  24086.439  -51488.934    12.390    0.0050    0.0046     14.16   -0.3402    0.4616
+End: Wed Jun 17 12:28:01 2009
+File HFM0-033.BIN open for logging   Wed Jun 17 12:28:01 2009
+01188000  24086.072  -51487.586    12.484    0.0049    0.0046     12.98   -0.2776    0.5565
+End: Wed Jun 17 13:28:00 2009
+File HFM0-034.BIN open for logging   Wed Jun 17 13:28:01 2009
+01224000  24087.301  -51486.699    11.723    0.0049    0.0046     11.99   -0.2158    0.6459
+End: Wed Jun 17 14:28:00 2009
+File HFM0-035.BIN open for logging   Wed Jun 17 14:28:01 2009
+01260000  24086.840  -51485.840    12.123    0.0049    0.0046     11.13   -0.1588    0.7266
+End: Wed Jun 17 15:28:00 2009
+File HFM0-036.BIN open for logging   Wed Jun 17 15:28:01 2009
+01296000  24085.691  -51485.363    12.076    0.0049    0.0046     10.31   -0.1072    0.7987
+End: Wed Jun 17 16:28:00 2009
+File HFM0-037.BIN open for logging   Wed Jun 17 16:28:00 2009
+01332000  24087.547  -51484.438    12.791    0.0049    0.0046      9.69   -0.0595    0.8638
+End: Wed Jun 17 17:28:00 2009
+File HFM0-038.BIN open for logging   Wed Jun 17 17:28:00 2009
+01368000  24088.635  -51483.980    13.058    0.0049    0.0045      9.14   -0.0154    0.9221
+End: Wed Jun 17 18:28:00 2009
+File HFM0-039.BIN open for logging   Wed Jun 17 18:28:00 2009
+01404000  24089.797  -51483.570    13.812    0.0049    0.0045      8.51    0.0250    0.9768
+End: Wed Jun 17 19:27:59 2009
+File HFM0-040.BIN open for logging   Wed Jun 17 19:28:00 2009
+01440000  24090.037  -51483.172    14.299    0.0049    0.0045      7.97    0.0650    1.0300
+End: Wed Jun 17 20:27:59 2009
+File HFM0-041.BIN open for logging   Wed Jun 17 20:28:00 2009
+01476000  24090.211  -51482.605    15.728    0.0049    0.0045      7.44    0.1033    1.0810
+End: Wed Jun 17 21:27:59 2009
+File HFM0-042.BIN open for logging   Wed Jun 17 21:28:00 2009
+01512000  24090.064  -51481.719    17.143    0.0048    0.0045      6.97    0.1395    1.1293
+End: Wed Jun 17 22:27:59 2009
+File HFM0-043.BIN open for logging   Wed Jun 17 22:27:59 2009
+01548000  24096.045  -51477.254    13.418    0.0048    0.0045      6.57    0.1713    1.1727
+End: Wed Jun 17 23:27:59 2009
+File HFM0-044.BIN open for logging   Wed Jun 17 23:27:59 2009
+01584000  24101.273  -51476.578    15.888    0.0048    0.0045      7.20    0.1492    1.1691
+End: Thu Jun 18 00:27:59 2009
+File HFM0-045.BIN open for logging   Thu Jun 18 00:27:59 2009
+01620000  24098.695  -51477.086    20.995    0.0049    0.0045      9.20    0.0572    1.0899
+End: Thu Jun 18 01:27:58 2009
+File HFM0-046.BIN open for logging   Thu Jun 18 01:27:59 2009
+01656000  24091.467  -51476.973    22.524    0.0049    0.0046     11.18   -0.1238    0.9327
+End: Thu Jun 18 02:27:58 2009
+File HFM0-047.BIN open for logging   Thu Jun 18 02:27:59 2009
+01692000  24087.213  -51481.480    19.947    0.0049    0.0046     13.05   -0.3602    0.7275
+End: Thu Jun 18 03:27:58 2009
+File HFM0-048.BIN open for logging   Thu Jun 18 03:27:59 2009
+01728000  24083.021  -51483.723    20.288    0.0050    0.0046     14.74   -0.5547    0.5148
+End: Thu Jun 18 04:27:58 2009
+File HFM0-049.BIN open for logging   Thu Jun 18 04:27:59 2009
+01764000  24074.369  -51485.125    20.888    0.0050    0.0047     16.05   -0.6149    0.3301
+End: Thu Jun 18 05:27:58 2009
+File HFM0-050.BIN open for logging   Thu Jun 18 05:27:58 2009
+01800000  24072.221  -51491.164    17.944    0.0050    0.0047     16.83   -0.6201    0.1971
+End: Thu Jun 18 06:27:58 2009
+File HFM0-051.BIN open for logging   Thu Jun 18 06:27:58 2009
+01836000  24076.719  -51495.699    16.209    0.0050    0.0047     17.19   -0.6041    0.1296
+End: Thu Jun 18 07:27:58 2009
+File HFM0-052.BIN open for logging   Thu Jun 18 07:27:58 2009
+01872000  24078.021  -51496.906    22.664    0.0050    0.0047     16.93   -0.5530    0.1391
+End: Thu Jun 18 08:27:57 2009
+File HFM0-053.BIN open for logging   Thu Jun 18 08:27:58 2009
+01908000  24079.355  -51495.477    28.425    0.0050    0.0047     16.06   -0.4689    0.2397
+End: Thu Jun 18 09:27:57 2009
+File HFM0-054.BIN open for logging   Thu Jun 18 09:27:58 2009
+01944000  24078.643  -51493.441    27.898    0.0050    0.0047     14.81   -0.3919    0.3653
+End: Thu Jun 18 10:27:57 2009
+File HFM0-055.BIN open for logging   Thu Jun 18 10:27:58 2009
+01980000  24079.549  -51492.262    27.250    0.0050    0.0046     13.63   -0.3144    0.4884
+End: Thu Jun 18 11:27:57 2009
+File HFM0-056.BIN open for logging   Thu Jun 18 11:27:58 2009
+02016000  24079.990  -51490.770    26.703    0.0049    0.0046     12.33   -0.2426    0.6007
+End: Thu Jun 18 12:27:57 2009
+File HFM0-057.BIN open for logging   Thu Jun 18 12:27:57 2009
+02052000  24079.830  -51489.324    26.870    0.0049    0.0046     11.21   -0.1766    0.7007
+End: Thu Jun 18 13:27:57 2009
+File HFM0-058.BIN open for logging   Thu Jun 18 13:27:57 2009
+02088000  24079.449  -51488.133    26.983    0.0049    0.0046     10.28   -0.1178    0.7865
+End: Thu Jun 18 14:27:56 2009
+File HFM0-059.BIN open for logging   Thu Jun 18 14:27:57 2009
+02124000  24079.871  -51487.125    26.182    0.0049    0.0046      9.61   -0.0652    0.8618
+End: Thu Jun 18 15:27:56 2009
+File HFM0-060.BIN open for logging   Thu Jun 18 15:27:57 2009
+02160000  24080.191  -51487.219    25.021    0.0049    0.0046      8.93   -0.0175    0.9275
+End: Thu Jun 18 16:27:56 2009
+File HFM0-061.BIN open for logging   Thu Jun 18 16:27:57 2009
+02196000  24079.469  -51486.859    26.342    0.0049    0.0045      8.44    0.0257    0.9869
+End: Thu Jun 18 17:27:56 2009
+File HFM0-062.BIN open for logging   Thu Jun 18 17:27:57 2009
+02232000  24079.871  -51486.273    24.433    0.0049    0.0045      7.79    0.0671    1.0436
+End: Thu Jun 18 18:27:56 2009
+File HFM0-063.BIN open for logging   Thu Jun 18 18:27:56 2009
+02268000  24080.738  -51485.918    26.496    0.0049    0.0045      7.21    0.1070    1.0988
+End: Thu Jun 18 19:27:56 2009
+File HFM0-064.BIN open for logging   Thu Jun 18 19:27:56 2009
+02304000  24080.912  -51485.332    26.302    0.0048    0.0045      6.73    0.1446    1.1478
+End: Thu Jun 18 20:27:55 2009
+File HFM0-065.BIN open for logging   Thu Jun 18 20:27:56 2009
+02340000  24083.469  -51485.148    27.270    0.0048    0.0045      6.24    0.1803    1.1937
+End: Thu Jun 18 21:27:55 2009
+File HFM0-066.BIN open for logging   Thu Jun 18 21:27:56 2009
+02376000  24081.980  -51483.688    29.026    0.0048    0.0045      5.87    0.2120    1.2343
+End: Thu Jun 18 22:27:55 2009
+File HFM0-067.BIN open for logging   Thu Jun 18 22:27:56 2009
+02412000  24084.076  -51480.516    24.700    0.0048    0.0045      5.58    0.2366    1.2631
+End: Thu Jun 18 23:27:55 2009
+File HFM0-068.BIN open for logging   Thu Jun 18 23:27:56 2009
+02448000  24082.740  -51480.016    29.206    0.0048    0.0045      6.38    0.2077    1.2449
+End: Fri Jun 19 00:27:55 2009
+File HFM0-069.BIN open for logging   Fri Jun 19 00:27:55 2009
+02484000  24088.521  -51481.613    33.258    0.0049    0.0045      8.34    0.0981    1.1500
+
+NOTE : User has stopped logging, 'q' was pressed
+End: Fri Jun 19 00:41:16 2009
+Logging Stopped at : Fri Jun 19 00:41:17 2009
+
+Closing Report File
