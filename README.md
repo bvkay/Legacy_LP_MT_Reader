@@ -1,6 +1,6 @@
 # Legacy Adelaide + Flinders Uni Long Period Magnetotelluric Processing
 
-This repository contains a suite of Python scripts for reading the legacy Adelaide and Flinders Uni Long Period MT instruments.
+This repository contains a suite of Python scripts for reading the legacy Adelaide and Flinders Uni Long Period MT instruments (commonly referred to as the 'Orange Boxes').
 
 Based upon:
   - Fortran code by G.H., 2003; updated by G.B., 2010
