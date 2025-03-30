@@ -32,8 +32,28 @@ The processing pipeline includes drift correction, unit conversion, optional rot
 - **Legacy_LP_MT_Batch.py**  
   Provides a batch processing framework to run the processing pipeline on multiple MT sites in parallel using a `ProcessPoolExecutor`. Each site is assumed to have its own folder (named after the site) within a parent directory. Output files and plots are named based on the site folder name.
 
+> **Note:**  
+> When the instrument saves each binary data file, a large spike is often introduced into the time series. This artifact is common in legacy MT data and can affect further analysis if left uncorrected. To address this, our pipeline implements smoothing (via median/MAD or adaptive median filtering) and plots vertical boundary lines to help visually identify these transitions.
+
 - **Stuart_Shelf Data**  
-  The repository also contains the Stuart Shelf MT data (binary files and corresponding `param.mt` files) in their respective site folders. These folders are used as input for the processing scripts. This data was collected by the University of Adelaide Geophysics Group in 2009.
+  The repository also contains the Stuart Shelf MT data (binary files and corresponding `param.mt` files) in their respective site folders. These folders are used as input for the processing scripts. This data was collected by the University of Adelaide Geophysics Group in 2009. There's data for four sites (e.g., ST61, ST62, etc.). Each folder contains binary data files (named using the instrument number) and a param.mt file with the metadata. The scripts expect the binary file names to be in the format: [instrument_number]-000.BIN, [instrument_number]-001.BIN, ... and use the instrument_number from the metadata to locate the files.
+
+## Key Features
+
+- **Drift Correction & Time Column:**  
+  The pipeline calculates a continuous time column based on the sample interval (e.g., for 10 Hz instruments, sample_interval should be 0.1 seconds) and applies a linear drift correction.
+
+- **Smoothing & Plot Boundaries:**  
+  A known artifact in these legacy data is a large spike that appears at the boundaries between binary files—likely due to the file-saving process. To mitigate this:
+  - **Smoothing** is applied (using either the median/MAD method or an adaptive median filter) to reduce the impact of these spikes.
+  - **Plot boundaries** are added to figures so you can visually identify where the binary files transition.
+
+- **Rotation & Tilt Correction:**  
+  Optional rotation corrects for misaligned instruments, and tilt correction adjusts the horizontal magnetic field (By) so its mean is zero.
+
+- **Batch Processing in Parallel:**  
+  Process multiple sites concurrently to take advantage of multiple CPU cores. You can control the number of parallel processes via the `--max_workers` option.
+
 
 ## Dependencies
 
@@ -79,3 +99,9 @@ To process multiple MT sites in parallel, use the batch processing script. For e
 - skip_minutes: Number of minutes to skip from the beginning of the data.
 - save_plots: Save plots to files instead of displaying them.
 - max_workers: Maximum number of parallel processes to use during batch processing.
+
+### Data Details
+
+The Stuart Shelf data is organized in site-specific folders (e.g., ST61, ST62, etc.) within a parent directory. Each folder contains:
+- Binary files named with the instrument number followed by a sequential index (e.g., HFM4-000.BIN, HFM4-001.BIN, etc.).
+- A param.mt file that contains metadata, including the instrument number, electrode separations, start/finish times, sample interval, and time drift.
